@@ -4,7 +4,7 @@ Interactive Power BI dashboard analyzing sales trends, shipments, revenue, and c
 
 ## Dashboard Preview
 
-![Dashboard Screenshot](Power_BI.jpeg)
+Power_BI.jpeg
 
 ## Overview
 
